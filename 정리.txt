@@ -1,0 +1,36 @@
+<strong> : 두껍게
+<u> : 
+<br> : 한 줄 띄기
+<p> : 단락
+<h1>
+
+단순히 글씨를 크게해서 제목처럼 보이게 하는 것보다 <h1>테그를 활용하여 코드를 작성하는 것이 중요함. 위상이 다름. 검색엔진에서 검색할 때 <h1>테그를 먼저 인식하기 때문.
+
+unsplash.com : 저작권 상관 없이 사용 가능
+
+<img src="basketball.jpg" width="100%">
+속성(src, width)를 통해 테그를 꾸며줌. 순서 상관 x
+
+<li> : 목록 작성
+<ul> : 여러 <li>들을 묶어줌. (unordered) <li>의 부모 테그
+<ol> : 여러 <li>들을 묶으면서 숫자를 메김. (ordered)
+<title> : 책의 표지와 같기 때문에 안 쓰면 손해.
+ex)<title>Web1-HTML</title>
+<meta charset="utf-8"> : utf-8 형식으로 읽을 것.
+<!doctype html> : html 안에 있다는 뜻으로 모든 코드 처음 부분에 적어줌
+<head>, <body> : <html>의 하위테그로 모든 테그들은 <head> 또는 <body> 테그 둘 중 하나에 속함.
+<a> : anchor 링크를 연결할 수 있음.
+href : hypertext reference(링크 참조)
+-> <a>테그 안에서 링크를 표시하는 역할.
+
+target="_blank" : <a>테그 안에 삽입하여 링크 페이지가 새 페이지에 열리도록 해줌.
+title="html5 specification" : <a>테그 안에 삽입하여 글에 마우스 커서가 올라갔을 때 글자를 나타냄.
+
+
+
+
+
+
+
+
+코세라 : https://www.coursera.org/
